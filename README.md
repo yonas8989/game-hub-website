@@ -1,15 +1,28 @@
-# About
+🎮 Game Hub – Discover Your Next Favorite Game!
+🚀 Game Hub is a modern and interactive gaming discovery platform that fetches real-time game data from the RAWG.io API. It allows users to search, filter, and sort games while delivering a visually stunning and smooth browsing experience.
 
-This repository contains the completed GameHub project as of the end of part 2 of my React course.
+✨ Features
+✅ Game Catalog & API Integration – Fetches game details, screenshots, trailers, and ratings from RAWG.io API.
+✅ Advanced Search, Filtering & Sorting – Find games by name, platform, genre, and popularity.
+✅ Smooth Navigation & Routing – React Router ensures seamless navigation across pages.
+✅ Global State Management – Powered by Zustand & React Context API for efficient state handling.
+✅ Caching & Performance Optimization – Reduces API calls with smart caching, lazy loading & pagination.
+✅ Dark Mode & Responsive UI – Sleek and modern design for both light and dark themes.
 
-You can find the full course at: https://codewithmosh.com
+🖼 Screenshots
+Home Page	Game Details	Dark Mode
+![Screenshot 2025-02-28 141715](https://github.com/user-attachments/assets/90e762ef-c2b0-4948-819d-7454461709c9)
 
-## Getting Started
 
-To get started, follow these steps:
+#🛠 Tech Stack
+🔹 Frontend: React.js, Tailwind CSS
+🔹 State Management: Zustand, React Context API
+🔹 Routing: React Router
+🔹 API Integration: RAWG.io API
+🔹 Performance Optimization: React Query (optional), Lazy Loading
+🔹 Deployment: Vercel / Netlify
 
-1. Clone this repository to your local machine.
-2. Run `npm install` to install the required dependencies.
-3. Get a RAWG API key at https://rawg.io/apidocs. You'll have to create an account first.
-4. Add the API key to **src/services/api-client.ts**
-5. Run `npm run dev` to start the web server.
+🎯 Project Goals
+🎯 Provide an engaging & intuitive game discovery experience.
+🎯 Optimize performance with caching & efficient API usage.
+🎯 Deliver a stunning UI/UX with smooth animations and responsiveness.
